@@ -1,5 +1,5 @@
 #Learning if/else statements
-grade = int(input("What is the student's grade? "))
+grade = int(input("What is your grade? "))
 if grade >= 55:
   print("You passed!")
 else:
