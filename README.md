@@ -59,6 +59,8 @@ Covers `while` loops, loop conditions, counters, and loop termination.
 |---|----------|-------------|----------|
 | 1 | [bank_pin.py](03_loops/01_bank_pin.py) | PIN validation with retry | `while` loop, input validation |
 | 2 | [guess_the_number.py](03_loops/02_guess_the_number.py) | Number guessing game | `while` with counter, compound conditions (`and`) |
+| 3 | [detention.py](03_loops/03_detention.py) | Detention writing lines exercise| `range()` function testing with a `for` loop|
+| 4 | [99_bottles.py](03_loops/04_99_bottles.py) | Writing all 99 bottles lyrics with 5 lines of code| `range()` functions but with reversed and with steps, f-strings and interpolation (`and`) |
 
 ### 04 - Modules
 
@@ -76,6 +78,7 @@ Multi-concept exercises that combine skills from all previous sections.
 | # | Exercise | Description | Concepts |
 |---|----------|-------------|----------|
 | 1 | [sorting_hat.py](05_projects/01_sorting_hat.py) | Hogwarts Sorting Hat quiz | Variables, accumulators (`+=`), input, conditionals |
+| 2 | [FizzBuzz.py](05_projects/02_FizzBuzz.py) | The famous fizzbuzz test | Loops, Conditionals, Modulo operator (%), Logical ordering (checking 15 before 3 or 5) |
 
 ## Skills Demonstrated
 
