@@ -9,7 +9,7 @@ This repository documents my structured approach to mastering Python programming
 | Platform | Focus | Status |
 |----------|-------|--------|
 | [Codedex](https://www.codedex.io/) | Interactive Python fundamentals and projects | In Progress |
-| [Udemy — One Week Python](https://www.udemy.com/course/one-week-python/) | Quick, effective Python fundamentals by Colt Steele | Coming Soon |
+| [Udemy — One Week Python](https://www.udemy.com/course/one-week-python/) | Quick, effective Python fundamentals by Colt Steele | In Progress |
 | Coursera | Academic approach to computer science and Python | Coming Soon |
 
 ## Repository Structure
@@ -61,7 +61,7 @@ Covers `while` loops, loop conditions, counters, and loop termination.
 | 2 | [guess_the_number.py](03_loops/02_guess_the_number.py) | Number guessing game | `while` with counter, compound conditions (`and`) |
 | 3 | [detention.py](03_loops/03_detention.py) | Detention writing lines exercise | `range()` function testing with a `for` loop|
 | 4 | [99_bottles.py](03_loops/04_99_bottles.py) | Writing all 99 bottles lyrics with 5 lines of code | `range()` functions but with reversed and with steps, f-strings and interpolation (`and`) |
-| 5 | [snake_eyes.py](03_loops/05_Snake_eyes.py) | This simulates rolling two six-sided dice until both dice show 1 | `random` library import, `while` loop, and `randint` function |
+| 5 | [snake_eyes.py](03_loops/05_Snake_eyes.py) | This simulates rolling two six-sided dice until both dice show 1 | `random` library import, `while` loop, and `randint()` function |
 
 
 ### 04 - Modules
