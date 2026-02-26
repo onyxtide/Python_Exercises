@@ -10,6 +10,7 @@ This repository documents my structured approach to mastering Python programming
 |----------|-------|--------|
 | [Codedex](https://www.codedex.io/) | Interactive Python fundamentals and projects | In Progress |
 | [Udemy — One Week Python](https://www.udemy.com/course/one-week-python/) | Quick, effective Python fundamentals by Colt Steele | Coming Soon |
+| [LinkedIn Learning — Python for Data Professionals in Healthcare](https://www.linkedin.com/learning/paths/python-for-data-professionals-in-healthcare) | Python data analysis, AI, and ML for healthcare | Coming Soon |
 | Coursera | Academic approach to computer science and Python | Coming Soon |
 
 ## Repository Structure
