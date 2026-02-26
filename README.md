@@ -12,37 +12,6 @@ This repository documents my structured approach to mastering Python programming
 | [Udemy — One Week Python](https://www.udemy.com/course/one-week-python/) | Quick, effective Python fundamentals by Colt Steele | Coming Soon |
 | Coursera | Academic approach to computer science and Python | Coming Soon |
 
-## Udemy — One Week Python
-
-**Instructor:** Colt Steele | **Rating:** 4.7/5 (7,003 ratings) | **Students:** 33,710
-**Format:** 26 sections, 190 lectures, 14h 15m total | **Last updated:** January 2026
-
-A quick and effective pathway to Python designed for busy people. Covers all the essentials needed to move on to data science, web development, or machine learning.
-
-### Course Curriculum
-
-| # | Topic | Description |
-|---|-------|-------------|
-| 1 | Installation | Painless setup for all platforms |
-| 2 | Working with Numbers | Numeric types and arithmetic |
-| 3 | Variables | Python variable assignment and naming |
-| 4 | Strings & String Methods | Text manipulation and built-in methods |
-| 5 | Booleans | True/False values and truthiness |
-| 6 | Conditional Logic | `if`/`elif`/`else` branching |
-| 7 | Boolean Logic | `and`, `or`, `not` operators |
-| 8 | Loops | `for` and `while` iteration |
-| 9 | Functions | Defining and calling functions |
-| 10 | Scope | Variable scope and namespaces |
-| 11 | Lists | Ordered, mutable sequences |
-| 12 | Dictionaries | Key-value pair data structures |
-| 13 | Sets | Unordered collections of unique elements |
-| 14 | Tuples | Ordered, immutable sequences |
-| 15 | `*args` and `**kwargs` | Flexible function arguments |
-| 16 | Working with Errors | Exception handling and debugging |
-| 17 | Custom Modules | Creating and importing your own modules |
-| 18 | 3rd Party Modules & PIP | Installing and using external packages |
-| 19 | Object Oriented Programming | Classes, inheritance, and OOP principles |
-
 ## Repository Structure
 
 Exercises are organized into numbered folders that reflect a logical learning progression. Within each folder, files are numbered to indicate recommended completion order.
