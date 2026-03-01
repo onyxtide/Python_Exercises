@@ -9,7 +9,7 @@ This repository documents my structured approach to mastering Python programming
 | Platform | Focus | Status |
 |----------|-------|--------|
 | [Codedex](https://www.codedex.io/) | Interactive Python fundamentals and projects | In Progress |
-| [Udemy — One Week Python](https://www.udemy.com/course/one-week-python/) | Quick, effective Python fundamentals by Colt Steele | In Progress |
+| [freeCodeCamp - Python Certification](https://www.freecodecamp.org/learn/python-v9/) | Quick, effective Python fundamentals | In Progress |
 | Coursera | Academic approach to computer science and Python | Coming Soon |
 
 ## Repository Structure
