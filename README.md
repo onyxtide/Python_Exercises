@@ -46,6 +46,7 @@ Covers variable assignment, arithmetic operators, exponents, user input, and typ
 | 2 | [bmi.py](01_variables_and_math/02_bmi.py) | Body Mass Index calculation | Exponents (`**`) |
 | 3 | [hypotenuse.py](01_variables_and_math/03_hypotenuse.py) | Pythagorean theorem calculator | `input()`, `int()`, square roots |
 | 4 | [currency.py](01_variables_and_math/04_currency.py) | Multi-currency to USD converter | Multiple inputs, type conversion |
+| 5 | [report_card.py](01_variables_and_math/05_student_report_card.py) | What are the data types of variables? | Learning about `type()` |
 
 ### 02 - Conditionals
 
