@@ -17,14 +17,24 @@ This repository documents my structured approach to mastering Python programming
 Exercises are organized into numbered folders that reflect a logical learning progression. Within each folder, files are numbered to indicate recommended completion order.
 
 ```
+00_projects/              Multi-concept exercises combining all skills learned
 01_variables_and_math/    Fundamentals: variables, arithmetic, type conversion
 02_conditionals/          Control flow: if/elif/else, logical operators
-03_loops/                 Iteration: while loops, counters, loop control
+03_loops/                 Iteration: while loops, for loops, range(), loop control
 04_modules/               Importing and using Python modules (random)
-05_projects/              Multi-concept exercises combining all skills above
+05_lists/                 List creation, indexing, slicing, methods, iteration
 ```
 
 ## Exercises
+
+### 00 - Projects
+
+Multi-concept exercises that combine skills from all previous sections.
+
+| # | Exercise | Description | Concepts |
+|---|----------|-------------|----------|
+| 1 | [sorting_hat.py](00_projects/01_sorting_hat.py) | Hogwarts Sorting Hat quiz | Variables, accumulators (`+=`), input, conditionals |
+| 2 | [FizzBuzz.py](00_projects/02_FizzBuzz.py) | The famous fizzbuzz test | Loops, Conditionals, Modulo operator (`%`), Logical ordering (checking 15 before 3 or 5) |
 
 ### 01 - Variables and Math
 
@@ -73,22 +83,25 @@ Covers importing Python modules and using the `random` library.
 | 1 | [themagic8ball.py](04_modules/01_themagic8ball.py) | Magic 8-Ball simulator | `import random`, `randint()` |
 | 2 | [snapple_random.py](04_modules/02_snapple_random.py) | Random Snapple bottle cap facts | `random` module, multi-branch selection |
 
-### 05 - Projects
+### 05 - Lists
 
-Multi-concept exercises that combine skills from all previous sections.
+Covers list creation, indexing, negative indexing, slicing, built-in functions (`min()`, `max()`), list methods (`.append()`, `.remove()`, `.pop()`), and iterating over lists with `for` loops.
 
 | # | Exercise | Description | Concepts |
 |---|----------|-------------|----------|
-| 1 | [sorting_hat.py](05_projects/01_sorting_hat.py) | Hogwarts Sorting Hat quiz | Variables, accumulators (`+=`), input, conditionals |
-| 2 | [FizzBuzz.py](05_projects/02_FizzBuzz.py) | The famous fizzbuzz test | Loops, Conditionals, Modulo operator (%), Logical ordering (checking 15 before 3 or 5) |
+| 1 | [todo_list.py](05_lists/01_todo_list.py) | To-do list with indexing and slicing | List syntax, indexing, negative indexing, slicing |
+| 2 | [inventory.py](05_lists/02_inventory.py) | LEGO parts inventory analysis | `min()`, `max()` built-in functions |
+| 3 | [reading_list.py](05_lists/03_reading_list.py) | Managing a reading list | `.append()`, `.remove()`, `.pop()` methods |
+| 4 | [roadrip_karaoke.py](05_lists/04_roadrip_karaoke.py) | Road trip playlist printer | `for` loop, `range()`, `len()`, list iteration |
 
 ## Skills Demonstrated
 
-- **Data Types**: `int`, `float`, `str`
-- **Operators**: Arithmetic (`+`, `-`, `*`, `/`, `**`), relational (`>`, `<`, `>=`, `==`), logical (`and`, `or`)
+- **Data Types**: `int`, `float`, `str`, `list`
+- **Operators**: Arithmetic (`+`, `-`, `*`, `/`, `**`), relational (`>`, `<`, `>=`, `==`), logical (`and`, `or`), modulo (`%`)
 - **User Input**: `input()` with type conversion (`int()`, `float()`)
 - **Control Flow**: `if`/`elif`/`else` conditional branching
-- **Iteration**: `while` loops with counters and compound exit conditions
+- **Iteration**: `while` loops with counters, `for` loops with `range()` and `len()`
+- **Lists**: Indexing, negative indexing, slicing, `.append()`, `.remove()`, `.pop()`, `min()`, `max()`
 - **Modules**: `import random`, `random.randint()`
 - **Patterns**: Accumulator pattern, input validation, multi-branch selection
 
