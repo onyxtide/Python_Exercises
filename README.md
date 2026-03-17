@@ -95,7 +95,9 @@ Covers list creation, indexing, negative indexing, slicing, built-in functions (
 | 2 | [inventory.py](05_lists/02_inventory.py) | LEGO parts inventory analysis | `min()`, `max()` built-in functions |
 | 3 | [reading_list.py](05_lists/03_reading_list.py) | Managing a reading list | `.append()`, `.remove()`, `.pop()` methods |
 | 4 | [roadrip_karaoke.py](05_lists/04_roadrip_karaoke.py) | Road trip playlist printer | `for` loop, `range()`, `len()`, list iteration |
-| 5 | [academy_awards.py](05_lists/05_academy_awards.py) | Adding things to a list using a list method | `.insert` list method |
+| 5 | [academy_awards.py](05_lists/05_academy_awards.py) | Adding things to a list using a list method | `.insert()` list method |
+| 6 | [lucky_numbers.py](05_lists/06_lucky_numbers.py) | Adding random integers to lists | `.append()` list method, `for` loops, `random.randint()` |
+
 
 ## Skills Demonstrated
 
