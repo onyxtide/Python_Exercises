@@ -1,3 +1,4 @@
+#Generate two lists of random numbers (five from 1–69 and one from 1–26 each)
 import random
 
 my_numbers = []
