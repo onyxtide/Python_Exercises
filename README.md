@@ -35,6 +35,7 @@ Multi-concept exercises that combine skills from all previous sections.
 |---|----------|-------------|----------|
 | 1 | [sorting_hat.py](00_projects/01_sorting_hat.py) | Hogwarts Sorting Hat quiz | Variables, accumulators (`+=`), input, conditionals |
 | 2 | [FizzBuzz.py](00_projects/02_FizzBuzz.py) | The famous fizzbuzz test | Loops, Conditionals, Modulo operator (`%`), Logical ordering (checking 15 before 3 or 5) |
+| 3 | [terminal_adventure.py](00_projects/03_terminal_adventure.py) | Course checkpoint project inspired by Borges | Loops, conditionals, randomness, and user input for branching narrative paths with controlled flow and state |
 
 ### 01 - Variables and Math
 
